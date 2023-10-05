@@ -641,7 +641,7 @@ transform: scale(0.8);
     ;
 }
 
-.images-blob::after {
+/* .images-blob::after {
     content: "";
     position: absolute;
     top: -10rem;
@@ -650,7 +650,7 @@ transform: scale(0.8);
     aspect-ratio: 1;
     z-index: -1;
     background: url(images/bg-tablet-pattern.svg) no-repeat;
-}
+} */
 
 
 @media (max-width: 1050px) {
@@ -933,13 +933,13 @@ transform: scale(0.8);
         transform: rotate(720deg)
     }
 } 
-/* 
+
 body {
     background-image: url(images/bg-tablet-pattern.svg) , url(images/bg-tablet-pattern.svg);
     background-position: 15rem -10rem, -35rem 125rem;
     background-blend-mode: screen;
     background-repeat: no-repeat;
-} */
+}
 
 }
 
