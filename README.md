@@ -15,12 +15,12 @@ This is a Website I made using HTML and vanilla CSS to improve my Front-End skil
 - [a11ySlider](https://a11yslider.js.org/) - For the slider
 
 <h2 align="center"> Desktop Layout of My Website </h2>
-<img src="designs/Desktop Design.png">
+<img src="designs/Desktop.png">
 
 
 
 <h2> Mobile Layout of My Website </h2>
-<img src="designs/Mobile Design.png">
+<img src="designs/Mobile.png">
 
 ## Author
 
